@@ -46,7 +46,7 @@ An application that can be used to write, save, and delete notes using Node and 
 ---
 
 ## Visuals
-
+https://user-images.githubusercontent.com/27812373/179432048-6e4c98e8-99e9-445a-8504-80150da615f5.png
 
 ---
 
