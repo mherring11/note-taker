@@ -47,6 +47,7 @@ An application that can be used to write, save, and delete notes using Node and 
 
 ## Visuals
 ![image](https://user-images.githubusercontent.com/27812373/179432181-bed2dbd9-678d-4075-a843-dffdb651be48.png)
+![image](https://user-images.githubusercontent.com/27812373/179432208-60751be0-64cd-4420-a561-7cf46b460606.png)
 
 
 ---
@@ -67,6 +68,3 @@ Not accepting contributions at this time
 ## Contact Information
   * GitHub Username: [jfisher396](https://github.com/jfisher396)
   * GitHub Email: james@james-fisher-web-developer.com
-  * <p>
-    <a href="https://www.linkedin.com/in/jamesfisher-webdev/"><img alt="Linkedin: James Fisher" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-    </p>
