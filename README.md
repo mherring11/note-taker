@@ -66,5 +66,5 @@ Not accepting contributions at this time
 ---
 
 ## Contact Information
-  * GitHub Username: [jfisher396](https://github.com/jfisher396)
+  * GitHub Username:(https://github.com/mherring11)
   * GitHub Email: james@james-fisher-web-developer.com
