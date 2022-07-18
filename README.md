@@ -2,18 +2,9 @@
 
 ---
 
-## Table of Contents
-  * [Description](#description)
-  * [Visuals](#visuals)
-  * [License](#license)
-  * [Contributing](#contribution)
-  * [Questions](#contact-information)
-
----
-
 ## Description
 
-An application that can be used to write, save, and delete notes using Node and Express.
+This simple note taking application allows you to save notes with a title and plain text. Powered by ExpressJS, the Note Taker app makes creating, viewing, and deleting notes easy.
 
     * The application frontend has already been created, it's your job to build the backend and connect the two.
 
@@ -53,16 +44,15 @@ An application that can be used to write, save, and delete notes using Node and 
 
 ---
 
-## License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  * For more information on license types, please reference this website
-  for additional licensing information - [https: //choosealicense.com/](https://choosealicense.com/).
-
+## Deployed Link:
+https://damp-inlet-25580.herokuapp.com/
 ---
 
-## Contributing
-
-Not accepting contributions at this time
+## Built With
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [NodeJS](https://nodejs.org/)
+* Node Packages:
+    * [Express](https://www.npmjs.com/package/express)
 
 ---
 
