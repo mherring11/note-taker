@@ -1,14 +1,4 @@
-# Express Note Taker
-
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-yellow" />
-  <img src="https://img.shields.io/badge/-OOP-red" />
-  <img src="https://img.shields.io/badge/-JSON-blue" />
-  <img src="https://img.shields.io/badge/-Express-blueviolet" />
-  <img src="https://img.shields.io/badge/UUID-orange"  />
-  <img src="https://img.shields.io/badge/-Node-green" />
-  <img src="https://img.shields.io/badge/-Heroku-grey" />
-</p>
+# Note Taker
 
 ---
 
@@ -23,7 +13,7 @@
 
 ## Description
 
-An application that can be used to write, save, and delete notes using Node and Express, utilizing JSON for data storage. With an already completed front-end, my role was to build the back-end and connect it to the front-end, as stated below:
+An application that can be used to write, save, and delete notes using Node and Express.
 
     * The application frontend has already been created, it's your job to build the backend and connect the two.
 
@@ -57,11 +47,6 @@ An application that can be used to write, save, and delete notes using Node and 
 
 ## Visuals
 
-![screenshot 1](media/note-taker-1.png)
----
-![screenshot 1](media/note-taker-2.png)
----
-![screenshot 1](media/note-taker-3.png)
 
 ---
 
